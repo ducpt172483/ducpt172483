@@ -1,3 +1,4 @@
+![Nodejs](https://res.cloudinary.com/phamtienduc-amela/image/upload/v1626633895/1455b5c8-4887-43a8-8214-de77543414c9_w0fnq4.jpg)
 ## Hi there, I'm DucPham  - Passionate Web Developer
 
 - Open and friendly.
@@ -7,6 +8,9 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
+
+## Education
+- Ha Noi University of Science and Technology
 
 ## Working
 - Fullstack Developer at Amela Technology: https://amela.vn/
