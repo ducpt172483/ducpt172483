@@ -45,6 +45,7 @@
 
 ### Backend Development
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="26px" src="https://res.cloudinary.com/phamtienduc-amela/image/upload/v1635412504/logo-small.ede75a6b_qyjz09.svg" />
 <img align="left" alt="ExpressJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="Typeorm" width="32px" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" />
 <img align="left" alt="Typeorm" width="26px" src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci9jMzZlN2UwZDU1NTRjNGFiMmQ2NWU2YzdjYWY2OGRiMz9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.NZneeXgg4mTLRmpNfmyqDyTmGP5kKz3__cRfC1TCiEA" />
