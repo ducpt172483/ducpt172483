@@ -13,8 +13,9 @@
 - Ha Noi University of Science and Technology
 
 ## Working
-- Fullstack Developer at Amela Technology: https://amela.vn/
-- Frontend Developer at BKsoftware: https://www.facebook.com/BkSoftwareVN/
+- Backend Developer at Miichisoft: https://miichisoft.com/
+<!-- - Fullstack Developer at Amela Technology: https://amela.vn/
+- Frontend Developer at BKsoftware: https://www.facebook.com/BkSoftwareVN/ -->
 
 ### Languages and Tools:
 
