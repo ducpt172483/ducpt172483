@@ -27,7 +27,7 @@
 ### Frontend Development
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Antd design" width="26px" src="https://camo.githubusercontent.com/363242675617648bfbedd1610f89ac28df0f9e1bac8749d83109fafdf8524fff/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667" />
-<img align="left" alt="React Query" width="26px" src="https://react-query.tanstack.com/_next/static/images/emblem-light-5d1cdce6c8bbb006ac6cefb8e1642877.svg" />
+<img align="left" alt="React Query" width="26px" src="https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" />
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
 <img align="left" alt="Redux-saga" width="26px" src="https://avatars.githubusercontent.com/u/24776643?s=200&v=4" />
 <img align="left" alt="Babel" width="26px" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" />
