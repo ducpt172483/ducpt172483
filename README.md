@@ -41,8 +41,7 @@
 
 <img align="left" alt="MongoDB" width="26px" src="https://res.cloudinary.com/phamtienduc/image/upload/v1686328236/ducpt172483/62f120f634f46f92d05298c6_MongoDB_Logo.svg_jukjkc.png" />
 
-<img align="left" alt="Redis" width="26px" src="https://res.cloudinary.com/phamtienduc/image/upload/v1686328361/ducpt172483/Redis-1_kak1x1.png
-" />
+<img align="left" alt="Redis" width="26px" src="https://res.cloudinary.com/phamtienduc/image/upload/v1686328361/ducpt172483/Redis-1_kak1x1.png" />
 
 <img align="left" alt="Typeorm" width="26px" src="https://res.cloudinary.com/phamtienduc/image/upload/v1686328303/ducpt172483/logo-large_qdmucj.png" />
 
