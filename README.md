@@ -2,8 +2,8 @@
 
 ## Hi there, I'm DucPham - Passionate Web Developer
 
--   Open and friendly.
--   Enjoy working with NodeJS, ReactJS.
+- Open and friendly.
+- Enjoy working with NodeJS, ReactJS.
 
 ## Connect with me
 
@@ -13,15 +13,13 @@
 
 ## Education
 
--   Ha Noi University of Science and Technology
+- Ha Noi University of Science and Technology
 
 ## Working
 
--   Backend Developer at Miichisoft: https://miichisoft.com/
-<!-- - Fullstack Developer at Amela Technology: https://amela.vn/
--   Frontend Developer at BKsoftware: https://www.facebook.com/BkSoftwareVN/ -->
+- Start up
 
-### Languages and Tools:
+## Languages and Tools:
 
 ### Programming Languages
 
@@ -29,33 +27,39 @@
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
 <br />
-
-### Frontend Development
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Antd design" width="26px" src="https://camo.githubusercontent.com/363242675617648bfbedd1610f89ac28df0f9e1bac8749d83109fafdf8524fff/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667" />
-<img align="left" alt="React Query" width="26px" src="https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" />
-<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
-<img align="left" alt="Redux-saga" width="26px" src="https://avatars.githubusercontent.com/u/24776643?s=200&v=4" />
-<img align="left" alt="Babel" width="26px" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" />
-
-<img align="left" alt="Material UI" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/material-ui.svg" />
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="PUG" width="26px" src="https://cdn.worldvectorlogo.com/logos/pug.svg" />
-
-<br />
 <br />
 
 ### Backend Development
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Node.js" width="26px" src="https://res.cloudinary.com/phamtienduc-amela/image/upload/v1635412504/logo-small.ede75a6b_qyjz09.svg" />
-<img align="left" alt="ExpressJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="Typeorm" width="32px" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" />
+<img align="left" alt="NestJS" width="26px" src="https://res.cloudinary.com/phamtienduc/image/upload/v1686327636/ducpt172483/nestjs-icon-512x510-9nvpcyc3_cdrbem.png" />
 
+<img align="left" alt="ExpressJS" width="26px" src="https://res.cloudinary.com/phamtienduc/image/upload/v1686327769/ducpt172483/express-logo_dmxpgs.png" />
+
+<img align="left" alt="Docker" width="26px" src="https://res.cloudinary.com/phamtienduc/image/upload/v1686328130/ducpt172483/docker_nzx8oo.png" />
+
+<img align="left" alt="Docker" width="26px" src="https://res.cloudinary.com/phamtienduc/image/upload/v1686328174/ducpt172483/mysql-1-1600340047538868003500-crop-160034079526453914971_h7if84.png" />
+
+<img align="left" alt="MongoDB" width="26px" src="https://res.cloudinary.com/phamtienduc/image/upload/v1686328236/ducpt172483/62f120f634f46f92d05298c6_MongoDB_Logo.svg_jukjkc.png" />
+
+<img align="left" alt="Redis" width="26px" src="https://res.cloudinary.com/phamtienduc/image/upload/v1686328361/ducpt172483/Redis-1_kak1x1.png
+" />
+
+<img align="left" alt="Typeorm" width="26px" src="https://res.cloudinary.com/phamtienduc/image/upload/v1686328303/ducpt172483/logo-large_qdmucj.png" />
+
+
+
+<br />
+<br />
+
+### Frontend Development
+
+<img align="left" alt="NextJS" width="26px" src="https://res.cloudinary.com/phamtienduc/image/upload/v1686327944/ducpt172483/nextjs_rwubqa.png" />
+
+<img align="left" alt="ReactJS" width="26px" src="https://res.cloudinary.com/phamtienduc/image/upload/v1686327980/ducpt172483/1200px-React-icon.svg_zokzbb.png" />
+
+<img align="left" alt="Ant design" width="26px" src="https://res.cloudinary.com/phamtienduc/image/upload/v1686328058/ducpt172483/ant-design-logo-EAB6B3D5D9-seeklogo.com_hidmxu.png" />
+
+<br />
 <br />
 
 ### Database
@@ -66,14 +70,17 @@
 <img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />
 
 <br />
+<br />
 
 ### Other
 
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="Gitlab" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/gitlab-282507.png" />
-<img align="left" alt="Github" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-<img align="left" alt="Github" width="28px" src="https://image.flaticon.com/icons/png/512/518/518713.png" />
 
+<img align="left" alt="Gitlab" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/gitlab-282507.png" />
+
+<img align="left" alt="Github" width="28px" src="https://res.cloudinary.com/phamtienduc/image/upload/v1686328523/ducpt172483/GitHub_Invertocat_Logo_oocler.svg" />
+
+<br />
 <br />
 
 [facebook]: https://www.facebook.com/duc.pt172483
